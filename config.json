@@ -1,0 +1,14 @@
+{
+  "shopName": "Miko Shrine",
+  "gamepassRate": 5.5,
+  "shopStatus": "open",
+  "queueCount": 0,
+  "paymentInfo": {
+    "promptPay": "0957906768",
+    "bankName": "ธนาคารกสิกรไทย (KBank)",
+    "accountNumber": "131-1-65636-4",
+    "accountName": "หิรัณยวัต แก้วหร่าย",
+    "note": "โอนแล้วส่งสลิปในห้องตั๋วสั่งซื้อเท่านั้น ห้ามโอนนอกตั๋วเด็ดขาด"
+  },
+  "games": {}
+}
